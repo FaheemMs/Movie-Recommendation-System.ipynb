@@ -1,4 +1,4 @@
-# Movie-Recommendation-System.ipynb
+# Movie-Recommendation-System.py
 The code starts with importing of libraries.
 And the dataset taken is movies.csv that is comprising a total of 4803 rows and 24 columns.
 movies_data.head()
